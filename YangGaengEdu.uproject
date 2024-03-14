@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{26E8293E-404A-E3DB-8177-F09685A307BA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "YangGaengEdu",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
